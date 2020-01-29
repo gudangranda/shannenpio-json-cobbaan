@@ -172,7 +172,7 @@
 function makeSlider(config) {
 
 	var defaults = {
-		url: "http://www.dte.web.id", // Your blog URL
+		url: "https://templatehasilcloning.blogspot.com", // Your blog URL
 		numPost: 5, // Number of posts to display
 		newTabLink: false, // `true` to automatically open link in new window tab
 		labelName: null, // Show posts in specific label. Specify name of the post label, or `null` to show all posts
